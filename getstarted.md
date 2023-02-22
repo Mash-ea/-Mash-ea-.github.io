@@ -17,7 +17,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 </div>
 
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02 markdown="2">
 
 <strong>### 2. Rename the project to `<yourusername>.github.io`</strong>
 <body>
@@ -29,7 +29,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 </div>
 
 
-<div class="gs-section-03" markdown="1">
+<div class="gs-section-03" markdown="3">
 
 <em>### 3. Customize your website settings</em>
 <ol>
