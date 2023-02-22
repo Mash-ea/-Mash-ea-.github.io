@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: MASH EA WEBSITE
+title:  EA MASH WORLD
 
 # Your name to show in the footer
-author: EDWARD MASHINGAIDZE
+author: EDWARD A MASHINGAIDZE
 
 
 # --- List of links in the navigation bar --- #
@@ -20,7 +20,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
-  Author's home: ""
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -42,9 +42,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "emashing@asu.edu"
-  facebook: EA_MASH
+  facebook: EA Mash
   github: Mash-ea
-  twitter: EA MASH
+  twitter: EA Mash
   
 #  medium: yourname
 #  reddit: yourname
