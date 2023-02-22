@@ -10,7 +10,7 @@ My name is Edward A Mashingaidze. I have the following qualities:
 - Indepth knowledge in various fields of Industry
 - Extremely loyal to my family, friends and acquintances
 
-### My story
+### My story 
 Experienced in project management, consumer oriented marketing and customer acquisition accross South East Asia, Middle East, Southern Africa and Arizona, USA. 
 
 - B.A Hons In Business Mangement, University of East London.
